@@ -1,0 +1,22 @@
+
+/* Global reset is managed in App.css */
+:root {
+  font-family: Inter, sans-serif;
+  color: #f4f5ff;
+  background: #080b14;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
